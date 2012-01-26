@@ -9,7 +9,7 @@ void goodbye()
 
 int main(void)
 {
-    printf("Hello Wordl!!!\n");
+    printf("Hello World!!!\n");
     goodbye();
     return EXIT_SUCCESS;
 }
