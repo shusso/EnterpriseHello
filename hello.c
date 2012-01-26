@@ -3,7 +3,7 @@
 
 void goodbye()
 {
-    printf("Goodbye cruel world\n");
+    printf("hej po dei\n");
 }
 
 
